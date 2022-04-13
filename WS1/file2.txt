@@ -1,1 +1,2 @@
 File2 content added to the file 
+File2 is changed too!
