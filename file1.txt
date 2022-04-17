@@ -1,2 +1,3 @@
-first content
+first content NEW CONTENT HERE
 the content is changed
+another changes but first line has changed too
